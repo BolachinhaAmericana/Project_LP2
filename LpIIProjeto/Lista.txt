@@ -1,0 +1,43 @@
+[
+
+ Comercial: 
+ Nome: Fernando
+ Codigo: 11
+ Data de Entrada: 2020-03-04
+ Dias De Trabalho Dividido em Anos: [12, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Numero de Vendas: 5
+, 
+
+ Comercial: 
+ Nome: Zezinho
+ Codigo: 22
+ Data de Entrada: 2020-03-04
+ Dias De Trabalho Dividido em Anos: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Numero de Vendas: 5
+, 
+
+ Gestor: 
+ Nome: Maria
+ Codigo: 33
+ Data de Entrada: 1965-03-04
+ Dias De Trabalho Dividido em Anos: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+, 
+ Nome: Sofia
+ Codigo: 1
+ Data de Entrada: 1999-03-04
+ Dias De Trabalho Dividido em Anos: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+, 
+
+ Motorista: 
+ Nome: joana
+ Codigo: 1
+ Data de Entrada: 2022-03-04
+ Dias De Trabalho Dividido em Anos: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Quilometros Percorridos: 5.0
+]
